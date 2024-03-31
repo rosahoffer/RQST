@@ -1,6 +1,5 @@
 # Portfolio Website - Studio RQST
 
-
 ## 📖 Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
@@ -12,11 +11,11 @@
     
 ## 📄 Beschrijving
 
--
+Welkom bij de README van onze portfolio website, ontwikkeld door Studio RQST. Deze website dient als showcase van ons werk, waarbij we onze creativiteit en technische vaardigheden demonstreren door middel van verschillende projecten.
 
 ## 🛠️ Gebruik
 
--
+Deze repository bevat de broncode van onze portfolio website. Het is bedoeld voor ontwikkelaars die geïnteresseerd zijn in het bekijken van de code of het bijdragen aan verbeteringen.
 
 ## 💎 Kenmerken
 
