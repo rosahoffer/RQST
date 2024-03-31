@@ -1,7 +1,5 @@
 # Portfolio Website - Studio RQST
 
-<img width="600" alt="Schermafbeelding 2024-03-31 om 14 19 24" src="https://github.com/rosahoffer/RQST/assets/112861375/ab16c019-7624-423a-a498-c37933598a53">
-
 ## 📖 Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
